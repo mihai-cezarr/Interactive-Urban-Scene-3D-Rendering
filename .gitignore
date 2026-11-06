@@ -1,13 +1,1 @@
-.vs/
-x64/
-x86/
-Debug/
-Release/
-*.user
-*.suo
-*.exe
-*.pdb
-*.ilk
-*.zip
-TurceniucMihai_gr30235_app.zip
-TurceniucMihai_gr30235_doc.zip
+.vs/echo x64/echo x86/echo Debug/echo Release/echo *.userecho *.suoecho *.exeecho *.pdbecho *.ilkecho *.zipecho TurceniucMihai_gr30235_app.zipecho TurceniucMihai_gr30235_doc.zip

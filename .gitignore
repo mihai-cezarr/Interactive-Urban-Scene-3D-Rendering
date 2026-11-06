@@ -1,0 +1,13 @@
+.vs/
+x64/
+x86/
+Debug/
+Release/
+*.user
+*.suo
+*.exe
+*.pdb
+*.ilk
+*.zip
+TurceniucMihai_gr30235_app.zip
+TurceniucMihai_gr30235_doc.zip
